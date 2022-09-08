@@ -1,0 +1,47 @@
+[
+{
+    "name":"SanDisk Ultra 128GB SDXC Memory Card up to 80MB/S",
+    "price":"45.89",
+    "description":"Ultra Fact Card to take better picture and HD video",
+    "rating":4.5,
+    "images":[{
+        "public_id":"public_id",
+        "url":"url"
+    }],
+    "category":"Electronics",
+    "seller":"Ebay",
+    "stock":50,
+    "numOfReviews":32,
+    "reviews":[]
+},
+{
+    "name":"Qubo Smart Cam 360 from Hero Group | Made in India | 360 Degree Coverage",
+    "price":"40.89",
+    "description":"PROUDLY INDIAN: Qubo Smart Cam 360 is Designed & Made in INDIA. Engineered for the Security Needs of the Indian Market; TRUST OF HERO GROUP: Our Round-the-Clock Customer Service & Wide field Network not only resolves your all concerns & queries but rather ensures complete peace of mind for Lifetime. ",
+    "rating":4.0,
+    "images":[{
+        "public_id":"public_id",
+        "url":"url"
+    }],
+    "category":"Cameras",
+    "seller":"Ebay",
+    "stock":20,
+    "numOfReviews":30,
+    "reviews":[]
+},
+{
+    "name":"HP 15s, 11th Gen Intel Core i3, 8GB RAM/512GB SSD 15.6-inch(39.6 cm) FHD,",
+    "price":"42.99",
+    "description":"Do Check Partner offer section for Exciting offers from HP Intel Core i3-1115G4 (up to 4.1 GHz with Intel Turbo Boost Technology(2g),6 MB L3 cache, 2 cores)|Memory: 8 GB DDR4-3200 SDRAM (1 x 8 GB)| Storage: 512 GB PCIe NVMe M.2 SSD ",
+    "rating":4.3,
+    "images":[{
+        "public_id":"public_id",
+        "url":"url"
+    }],
+    "category":"Laptops",
+    "seller":"Ebay",
+    "stock":5,
+    "numOfReviews":10,
+    "reviews":[]
+}
+]
