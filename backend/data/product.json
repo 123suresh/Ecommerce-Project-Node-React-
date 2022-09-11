@@ -1,8 +1,8 @@
 [
 {
-    "name":"SanDisk Ultra 128GB SDXC Memory Card up to 80MB/S",
-    "price":"45.89",
-    "description":"Ultra Fact Card to take better picture and HD video",
+    "name":"JBL Tune 510BT: Wireless On-Ear Headphones with Purebass Sound - Blue",
+    "price":"44.77",
+    "description":"With Wireless Bluetooth 5.0 Streaming, you can stream wirelessly from your device and even switch between two devices so that you don't miss a call.For long-lasting fun, listen wirelessly for up to 40 hours and recharge the battery in as little as 2 hours with the convenient Type-C USB cable.",
     "rating":4.5,
     "images":[{
         "public_id":"public_id",
@@ -15,33 +15,123 @@
     "reviews":[]
 },
 {
-    "name":"Qubo Smart Cam 360 from Hero Group | Made in India | 360 Degree Coverage",
-    "price":"40.89",
-    "description":"PROUDLY INDIAN: Qubo Smart Cam 360 is Designed & Made in INDIA. Engineered for the Security Needs of the Indian Market; TRUST OF HERO GROUP: Our Round-the-Clock Customer Service & Wide field Network not only resolves your all concerns & queries but rather ensures complete peace of mind for Lifetime. ",
+    "name":"Meta Quest 2 — Advanced All-In-One Virtual Reality Headset — 128 GB",
+    "price":"341.23",
+    "description":"Buy Meta Quest 2. Get Beat Saber. For a limited time, get the hit VR rhythm game included when you buy Meta Quest 2.* Keep your experience smooth and seamless, even as high speed action unfolds around you with a super-fast processor and high-resolution display. Experience total immersion with 3D positional audio, hand tracking and haptic feedback, working together to make virtual worlds feel real.",
     "rating":4.0,
+    "images":[{
+        "public_id":"public_id",
+        "url":"url"
+    }],
+    "category":"Electronics",
+    "seller":"Ebay",
+    "stock":10,
+    "numOfReviews":32,
+    "reviews":[]
+},
+{
+    "name":"JBL FLIP 5, Waterproof Portable Bluetooth Speaker, Black",
+    "price":"77.23",
+    "description":"Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasing.",
+    "rating":4.5,
+    "images":[{
+        "public_id":"public_id",
+        "url":"url"
+    }],
+    "category":"Electronics",
+    "seller":"Ebay",
+    "stock":10,
+    "numOfReviews":32,
+    "reviews":[]
+},
+{
+    "name":" Panasonic LUMIX FZ300 Long Zoom Digital Camera Features 12.1 Megapixel",
+    "price":"1399.99",
+    "description":"4K video and 4K photo: Panasonic’s exclusive 4K photo technology uses 30 frames per second in high resolution 4K ultra HD video to extract them as photos; You’ll never miss that moment again . Leica DC Vario Elmarit lens: 24x zoom (25 600 millimeter with Full zoom range F2; 8 aperture for enhanced low light shooting meeting the stringent quality standards established by Leica ",
+    "rating":4.3,
     "images":[{
         "public_id":"public_id",
         "url":"url"
     }],
     "category":"Cameras",
     "seller":"Ebay",
-    "stock":20,
-    "numOfReviews":30,
+    "stock":10,
+    "numOfReviews":32,
     "reviews":[]
 },
 {
-    "name":"HP 15s, 11th Gen Intel Core i3, 8GB RAM/512GB SSD 15.6-inch(39.6 cm) FHD,",
-    "price":"42.99",
-    "description":"Do Check Partner offer section for Exciting offers from HP Intel Core i3-1115G4 (up to 4.1 GHz with Intel Turbo Boost Technology(2g),6 MB L3 cache, 2 cores)|Memory: 8 GB DDR4-3200 SDRAM (1 x 8 GB)| Storage: 512 GB PCIe NVMe M.2 SSD ",
-    "rating":4.3,
+    "name":"Canon EOS Rebel T7 DSLR Camera with 18-55mm Lens | Built-in Wi-Fi",
+    "price":"62.99",
+    "description":"24.1 Megapixel CMOS (APS-C) sensor with is 100–6400 (H: 12800). Use the EOS Utility Webcam Beta Software (Mac and Windows) to turn your compatible Canon camera into a high-quality webcam ",
+    "rating":4.2,
+    "images":[{
+        "public_id":"public_id",
+        "url":"url"
+    }],
+    "category":"Cameras",
+    "seller":"Ebay",
+    "stock":10,
+    "numOfReviews":32,
+    "reviews":[]
+},
+{
+    "name":"Canon EOS Rebel T7 DSLR Camera|2 Lens Kit with EF18-55mm + EF 75-300mm Lens",
+    "price":"145.99",
+    "description":"Improved Dual Pixel CMOS AF and eye detection AF 24.1 Megapixel CMOS (APS-C) sensor with is 100–6400 (H: 12800) Built-in Wi-Fi and NFC technology working temperature range: 32-104°F/0-40°C ",
+    "rating":4.2,
+    "images":[{
+        "public_id":"public_id",
+        "url":"url"
+    }],
+    "category":"Cameras",
+    "seller":"Ebay",
+    "stock":10,
+    "numOfReviews":32,
+    "reviews":[]
+},
+{
+    "name":"2022 Newest ASUS Vivobook 17 Laptop, 17.3 Full HD 1080P Non-Touch Display",
+    "price":"549.99",
+    "description":"【High Speed RAM And Enormous Space】16GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; 1TB PCIe NVMe M.2 Solid State Drive allows to fast bootup and data transfer. 【Processor】Intel Core i3-1115G4 (2 Cores, 4 Threads, 6MB Cache, 3.0 GHz at base frequency, up to 4.1 GHz at max turbo frequency) with Intel UHD Graphics",
+    "rating":4.2,
     "images":[{
         "public_id":"public_id",
         "url":"url"
     }],
     "category":"Laptops",
     "seller":"Ebay",
-    "stock":5,
-    "numOfReviews":10,
+    "stock":10,
+    "numOfReviews":32,
+    "reviews":[]
+},
+{
+    "name":"2022 Apple MacBook Air Laptop with M2 chip: 13.6-inch Liquid Retina Display",
+    "price":"1164.99",
+    "description":"STRIKINGLY THIN DESIGN — The redesigned MacBook Air is more portable than ever and weighs just 2.7 pounds. It’s the incredibly capable laptop that lets you work, play or create just about anything — anywhere. SUPERCHARGED BY M2 — Get more done faster with a next-generation 8-core CPU, up to 10-core GPU and up to 24GB of unified memory. ",
+    "rating":4.0,
+    "images":[{
+        "public_id":"public_id",
+        "url":"url"
+    }],
+    "category":"Laptops",
+    "seller":"Ebay",
+    "stock":10,
+    "numOfReviews":32,
+    "reviews":[]
+},
+{
+    "name":"Lenovo Ideapad 3 Laptop, 15.6 HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor",
+    "price":"316.99",
+    "description":"Memory & Storage】Memory is 8GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once. Hard Drive is 256GB PCIe Solid State Drive which allows to fast bootup and data transfer ",
+    "rating":4.1,
+    "images":[{
+        "public_id":"public_id",
+        "url":"url"
+    }],
+    "category":"Laptops",
+    "seller":"Ebay",
+    "stock":10,
+    "numOfReviews":32,
     "reviews":[]
 }
 ]
