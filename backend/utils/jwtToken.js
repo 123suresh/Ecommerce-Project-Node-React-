@@ -15,7 +15,7 @@ const sendToken = (user, statusCode, res) => {
         SameSite: "Strict",
     }
 
-    res.status(statusCode).cookie('token', token, options).json({
+    res.status(statusCode).cookie('token', token, options).header('x-auth-token', token).json({
         sucess: true,
         token,
         user
