@@ -6,10 +6,6 @@ const orderSchema = new mongoose.Schema({
             type: String,
             required: true
         },
-        address:{
-            type: String,
-            required: true
-        },
         city:{
             type: String,
             required: true
@@ -103,3 +99,32 @@ const orderSchema = new mongoose.Schema({
 })
 
 module.exports = mongoose.model('Order', orderSchema);
+
+
+// {
+//     "itemsPrice":2.17,
+//     "taxPrice":0.56,
+//     "shippingPrice":25,
+//     "totalPrice":27.9,
+//     "orderStatus":"done",
+//     "orderItems":[
+//             {
+//             "product":"order product",
+//             "name":"name of order item",
+//             "price":2.75,
+//             "image":"image of item",
+//             "quantity":1 
+//             }
+//         ],
+//     "paymentInfo":{
+//         "id":"paymentID",
+//         "status":"succeeded"
+//     },
+//     "shippingInfo":{
+//         "address":"NY",
+//         "city":"NY",
+//         "phoneNo":9866672002,
+//         "postalCode":2356,
+//         "country":"usa"
+//         }
+//     }
